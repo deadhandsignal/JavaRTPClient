@@ -8,7 +8,7 @@ The ‘Cork Campus Radio RTP Admin’ (CCR RTP Admin), allows the radio station 
 
 Full Dissertation can be read here:
 
-[Thomas Kilroy - M.Sc. Multimedia Technology](https://docs.google.com/document/d/1ttyFScsTflYy3plaUvlpgWsAOaWQzgErXUCZEsxXGuI/edit?usp=sharing)
+[Thomas Kilroy - Cork Campus Radio JAVA/RTP Client - M.Sc. Multimedia Technology](https://docs.google.com/document/d/1ttyFScsTflYy3plaUvlpgWsAOaWQzgErXUCZEsxXGuI/edit?usp=sharing)
 
 ## Getting Started
 
