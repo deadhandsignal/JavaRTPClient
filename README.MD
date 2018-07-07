@@ -1,4 +1,4 @@
-#  Cork Campus Radio JAVA/RTP Client
+#  Cork Campus Radio Java/RTP Client
 
 ‘Cork Campus Radio RTP Client’(CCR RTP Client), allows the user to listen to an RTP audio stream that is broadcast over a network, (the internet, college intranet). User can also view an up to date schedule of the station’s programmes for the any day of the week, while listening to the station’s programmes. 
 
