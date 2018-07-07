@@ -30,14 +30,14 @@ WINDOWS:
  
 
 ```sh
-    set CLASSPATH=%JMFDIR%\lib\jmf.jar;%JMFDIR%\lib\sound. jar;.;%CLASSPATH%
+set CLASSPATH=%JMFDIR%\lib\jmf.jar;%JMFDIR%\lib\sound. jar;.;%CLASSPATH%
 ```
 
 LINUX/OSX:
 
 
 ```sh
-     export CLASSPATH=/Library/Java/Extensions/jmf.jar
+export CLASSPATH=/Library/Java/Extensions/jmf.jar
 ```
 
 Or you can add to the existing classpath like this:
