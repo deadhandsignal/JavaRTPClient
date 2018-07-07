@@ -48,7 +48,7 @@ export CLASSPATH=$CLASSPATH:/path/to/some.jar:/path/to/some/other.jar
 
 ## To compile and run
 
-#####For Admin version:
+##### For Admin version:
 
 Compile:
 ```sh
@@ -60,7 +60,7 @@ Run:
 java CcrRtpAdmin
 ```
 
-#####For Client version:
+##### For Client version:
 
 Compile:
 ```sh
