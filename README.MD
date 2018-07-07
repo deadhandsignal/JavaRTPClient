@@ -75,7 +75,7 @@ java CcrRtpClient
 
 ## Built With
 
-* [React](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - It's Java what did it. 
+* [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html) - It's Java what did it. 
 
 
 ## Authors
